@@ -1,15 +1,7 @@
-# 🚀 Welcome to your new awesome project!
+# Webpack boilerplate
+To get a basic javascript project running, uses webpack 5.
 
-This project has been created using **webpack-cli**, you can now run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+# To get started
+1. Clone repository
+2. Run `yarn`
+3. Run `yarn serve` and visit http://localhost:8080/
